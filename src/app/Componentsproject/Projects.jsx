@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { FaAngleRight } from "react-icons/fa";
 
-const Project = () => {
+const Projects = () => {
     return (
         <div className="bg-[#F8F9FC] py-10 sm:py-20">
             <section className='max-w-container mx-auto px-2.5 sm:px-0'>
@@ -13,4 +13,4 @@ const Project = () => {
     );
 };
 
-export default Project;
+export default Projects;
